@@ -12,6 +12,17 @@ The UML class diagram below provides a high-level overview of the core classes a
 
 ---
 
+## 📐 Object-Oriented Design
+
+- Used core OOP principles: encapsulation, inheritance, polymorphism, and abstraction.  
+- Applied design patterns:  
+  - **Singleton** (`InventoryService`, `PurchaseService`)  
+  - **Strategy** (`DeliveryStrategy`, `EmailDelivery`, `ShippingDelivery`)  
+- Clean separation of concerns across controller, service, model, and delivery layers.  
+- Designed for reusability and easy extension (e.g., adding new book or delivery types).  
+
+---
+
 ## 📸 Application Screenshot
 
 Below is a sample screenshot demonstrating the output or behavior of the application:
@@ -49,4 +60,3 @@ Below is a sample screenshot demonstrating the output or behavior of the applica
 │   │   └── PurchaseService.java
 │   └── util                   # Utility/helper classes
 │       └── BookListFormatter.java
-```
