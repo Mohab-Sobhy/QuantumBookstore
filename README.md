@@ -1,12 +1,12 @@
 # QuantumBookstore
 
-QuantumBookstore is an object-oriented Java application that simulates a bookstore system. It manages different types of books (e.g., paper books, eBooks, showcase books), supports book ordering and purchasing, and integrates flexible delivery strategies.
+QuantumBookstore is an object-oriented Java application that simulates a bookstore system with support for book management and purchasing
 
 ---
 
 ## 📊 Class Diagram
 
-The UML class diagram below provides a high-level overview of the core classes and their relationships:
+The UML class diagram below illustrates the main classes and their relationships in the system:
 
 ![Class Diagram](UMLDiagram/ClassDiagram.jpg)
 
