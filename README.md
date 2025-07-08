@@ -1,4 +1,3 @@
-````markdown
 # QuantumBookstore
 
 QuantumBookstore is an object-oriented Java application that simulates a bookstore system. It manages different types of books (e.g., paper books, eBooks, showcase books), supports book ordering and purchasing, and integrates flexible delivery strategies.
