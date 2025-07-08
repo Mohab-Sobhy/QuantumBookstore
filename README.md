@@ -50,4 +50,3 @@ Below is a sample screenshot demonstrating the output or behavior of the applica
 │   └── util                   # Utility/helper classes
 │       └── BookListFormatter.java
 ```
-````
