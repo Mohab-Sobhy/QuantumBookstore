@@ -1,4 +1,6 @@
-<-> How to Run the Project:
+==============================
+        How to Run the Project
+==============================
 
 1. Navigate to the project directory:
    cd /yourpath
@@ -9,8 +11,12 @@
 3. Run the main class:
    java -cp out controller.QuantumBookstoreFullTest
 
-<-> Important Notes:
-- Make sure "/yourpath" is the correct path to your project directory.
-- The "src" folder should contain all your .java source files.
+
+==============================
+          Important Notes
+==============================
+
+- Ensure that "/yourpath" is the correct path to your project directory.
+- The "src" folder should contain all the .java source files.
 - The class "QuantumBookstoreFullTest" must be located inside the "controller" package.
 - Java 17 (or a compatible version) must be installed on your system.
